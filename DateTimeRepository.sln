@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeRepository", "DateT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeRepository.Example", "DateTimeRepository.Example\DateTimeRepository.Example.csproj", "{271DAB17-237E-402E-BD12-B3EEE2BE2FDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeRepository.Example.Tests", "DateTimeRepository.Example.Tests\DateTimeRepository.Example.Tests.csproj", "{8E712468-3633-41EC-B7FE-8E059F83338F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{271DAB17-237E-402E-BD12-B3EEE2BE2FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{271DAB17-237E-402E-BD12-B3EEE2BE2FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{271DAB17-237E-402E-BD12-B3EEE2BE2FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E712468-3633-41EC-B7FE-8E059F83338F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E712468-3633-41EC-B7FE-8E059F83338F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E712468-3633-41EC-B7FE-8E059F83338F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E712468-3633-41EC-B7FE-8E059F83338F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
