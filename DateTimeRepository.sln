@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeRepository", "DateTimeRepository\DateTimeRepository.csproj", "{51614DC5-C349-4E3D-A304-2EC799D51E69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeRepository.Example", "DateTimeRepository.Example\DateTimeRepository.Example.csproj", "{271DAB17-237E-402E-BD12-B3EEE2BE2FDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{51614DC5-C349-4E3D-A304-2EC799D51E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51614DC5-C349-4E3D-A304-2EC799D51E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51614DC5-C349-4E3D-A304-2EC799D51E69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{271DAB17-237E-402E-BD12-B3EEE2BE2FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{271DAB17-237E-402E-BD12-B3EEE2BE2FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{271DAB17-237E-402E-BD12-B3EEE2BE2FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{271DAB17-237E-402E-BD12-B3EEE2BE2FDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
